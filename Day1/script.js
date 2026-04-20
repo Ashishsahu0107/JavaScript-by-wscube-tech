@@ -137,6 +137,26 @@
 
 
 
+// staring conacatenation 
+
+// let username = "Ashishsahu"
+// let password = " 1234"
+
+// console.log(username+password);
+
+
+
+// let age = Number(prompt("Enter your age: "))
+// let result = (age>=18) ? "your are eligible for vote" : "you are not eligible for vote";
+// console.log(result);
+
+
+// let num1 = Number(prompt("Enter your num1: "))
+// let num2 = Number(prompt("Enter your num2: "))
+// let result =  (num1>num2) ? `num 1 ${num1}` : `num 2 : ${num2}`;
+// console.log(result);
+
+
 
 
 
